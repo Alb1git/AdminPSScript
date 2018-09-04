@@ -2,7 +2,8 @@
 <#
 .SYNOPSIS
   <Overview of script>
-
+.DESCRIPTION
+  <Brief description of script>
 .PARAMETER <Parameter_Name>
     <Brief description of parameter input required. Repeat this attribute if required>
 .INPUTS
