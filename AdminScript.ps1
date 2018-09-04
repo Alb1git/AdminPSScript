@@ -19,3 +19,8 @@
 .EXAMPLE
   <Example goes here. Repeat this attribute for more than one example>
 #>
+
+#----------------------Init----------------------------------------
+$var1 = 0
+$var2 = 1
+$var3 = 2
