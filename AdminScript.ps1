@@ -2,8 +2,7 @@
 <#
 .SYNOPSIS
   <Overview of script>
-.DESCRIPTION
-  <Brief description of script>
+
 .PARAMETER <Parameter_Name>
     <Brief description of parameter input required. Repeat this attribute if required>
 .INPUTS
@@ -19,3 +18,8 @@
 .EXAMPLE
   <Example goes here. Repeat this attribute for more than one example>
 #>
+
+#----------------------Init----------------------------------------
+$var1 = 0
+$var2 = 1
+$var3 = 2
