@@ -15,7 +15,7 @@
   Author:         <Name>
   Creation Date:  <Date>
   Purpose/Change: Initial script development
-  
+
 .EXAMPLE
   <Example goes here. Repeat this attribute for more than one example>
 #>
@@ -24,3 +24,4 @@
 $var1 = 0
 $var2 = 1
 $var3 = 2
+$var4 = 3
